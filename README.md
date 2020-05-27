@@ -4,7 +4,6 @@ __This code is heavily based in the monitoring wikipedia tutorial at__ https://c
 
 It also got a lot of good ideas from https://github.com/arjunsk/flink-kinesis-data-analytics-sample  (Thank you, Arjun)
 
-There is a video (in Spanish) where you can watch an intro to Kafka and Flink, and a 20-minutes demo of this code https://www.youtube.com/watch?v=46ZISaEeCWs&feature=youtu.be
 
 ## Requirements
 
