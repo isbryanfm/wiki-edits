@@ -1,0 +1,9 @@
+[
+  {
+    "PropertyGroupId": "KafkaSink",
+    "PropertyMap": {
+      "brokerList": "b-1.pruebaskafkaflink.uk3lb7.c8.kafka.us-east-1.amazonaws.com:9092,b-2.pruebaskafkaflink.uk3lb7.c8.kafka.us-east-1.amazonaws.com:9092,b-3.pruebaskafkaflink.uk3lb7.c8.kafka.us-east-1.amazonaws.com:9092",
+      "raw-topic": "aws-wiki-results"
+    }
+  }
+]

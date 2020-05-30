@@ -20,14 +20,6 @@ Notice depending on your configuration you might need to create the Kafka topics
 
 ## The files
  
-### WikipediaAnalisys
-
-It is pretty much the original version at the flink website, but adding some configuration options
-
-If you try to run this as a Kinesis Data Analytics application, you need to pay attention to networking as by default KDA running on a VPC doesn't have access to public internet, and you need this for connecting to the wikipedia IRC
-
-This file reads directly from the Wikimedia log change IRC channel and writes into the "KafkaSink.topic" from the configuration.
-
 ### WikipediaToKafka
 
 Reads the data from the wikipedia source, and streams to Kafka as JSON
